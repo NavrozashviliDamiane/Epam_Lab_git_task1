@@ -1,7 +1,12 @@
 I am a second file :)
 2
-3 Different info
-4 Different info
+<<<<<<< HEAD
+3 updated Different info
+4 updated Different info
+=======
+3 updated Different info
+4 udpated Different info
+>>>>>>> git_2
 5
 6
 7
