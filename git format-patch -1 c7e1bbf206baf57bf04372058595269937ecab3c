@@ -1,0 +1,48 @@
+[33mcommit 81211eb08c714e26bced9621fdb283b74abac943[m[33m ([m[1;36mHEAD -> [m[1;32mgit_1[m[33m)[m
+Author: NavrozashviliDamiane <navrozashvili1997@gmail.com>
+Date:   Thu Feb 15 23:23:43 2024 +0500
+
+    first file modified another 2 lines
+
+[33mcommit c7e1bbf206baf57bf04372058595269937ecab3c[m
+Author: NavrozashviliDamiane <navrozashvili1997@gmail.com>
+Date:   Thu Feb 15 23:23:06 2024 +0500
+
+    first file modified 2 lines
+
+[33mcommit bb594e61b88dea8a4aac589c72650d1fdbe49294[m
+Merge: 9523688 dc56cbd
+Author: NavrozashviliDamiane <navrozashvili1997@gmail.com>
+Date:   Thu Feb 15 23:21:26 2024 +0500
+
+    resolved comflict
+
+[33mcommit 95236886a1a5fd3726356a07f1ef49ebad037a8b[m
+Author: NavrozashviliDamiane <navrozashvili1997@gmail.com>
+Date:   Thu Feb 15 23:15:24 2024 +0500
+
+    updated 2 lines of secondfile
+
+[33mcommit dc56cbd96e21e61ad2ab446ad8bdd4dfaa001280[m[33m ([m[1;32mgit_2[m[33m)[m
+Author: NavrozashviliDamiane <navrozashvili1997@gmail.com>
+Date:   Thu Feb 15 23:10:55 2024 +0500
+
+    updated 2 lines inside secondFile.txt
+
+[33mcommit f07167bd2adcd0ace3f522e8d3deadb3597ee227[m
+Author: NavrozashviliDamiane <navrozashvili1997@gmail.com>
+Date:   Thu Feb 15 23:07:49 2024 +0500
+
+    added secondFile.txt
+
+[33mcommit 1dab4879356d991eb82bc5757a4b6aded1d0f0fe[m
+Author: NavrozashviliDamiane <navrozashvili1997@gmail.com>
+Date:   Thu Feb 15 23:06:37 2024 +0500
+
+    added firstFile.txt
+
+[33mcommit fa83a9808966fb61319ec05802c44c1993fe50f6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/git_task[m[33m, [m[1;31morigin/git_2[m[33m, [m[1;31morigin/git_1[m[33m, [m[1;32mmain[m[33m, [m[1;32mgit_task[m[33m)[m
+Author: NavrozashviliDamiane <navrozashvili1997@gmail.com>
+Date:   Thu Feb 15 23:00:44 2024 +0500
+
+    initial commit

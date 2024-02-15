@@ -1,0 +1,27 @@
+From c7e1bbf206baf57bf04372058595269937ecab3c Mon Sep 17 00:00:00 2001
+From: NavrozashviliDamiane <navrozashvili1997@gmail.com>
+Date: Thu, 15 Feb 2024 23:23:06 +0500
+Subject: [PATCH] first file modified 2 lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index d1f0558..cdd8f4f 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,8 +1,8 @@
+ first line
+ 2
+ 3
+-4
+-5
++4 Modified
++5 Modified
+ 6
+ 7
+ 8
+-- 
+2.41.0.windows.3
+
